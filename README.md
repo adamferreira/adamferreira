@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adamferreira&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
-[![GitHub Streak](ub Streak](http://github-readme-streak-stats.herokuapp.com?username=adamferreira&layout=compact&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=adamferreira&layout=compact&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamferreira&layout=compact&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
 
 <!--
