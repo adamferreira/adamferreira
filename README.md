@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![adamferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamferreira&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
+
+[![adamferreira's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamferreira&layout=compact&theme=github_dark&hide_title=true)](https://github.com/adamferreira)
+
 <!--
 **adamferreira/adamferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
